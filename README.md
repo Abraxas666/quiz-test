@@ -1,2 +1,6 @@
 # quiz-test
-questionario domande informatica
+Questionario domande informatica V 1.0
+Programmers:
+    Alina
+    Flavio
+
