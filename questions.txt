@@ -1,0 +1,35 @@
+Come si chiamano i simboli < > = in python?
+        1 Operatori di confronto
+        2 Operatori logici
+        3 Metodi di confronto
+ 1
+Che operatori si usano per il controllo di flusso?
+        1 if, ifelse, while
+        2 for, while
+        3 try except 
+1
+Nella definizione di funzione cosa viene contenuto tra le parentesi?
+        1 gli argomenti
+        2 i parametri
+        3 le stringhe
+2
+Se il programma caricato da un errore e si blocca all'inzio ?
+        1  un errore di sintassi
+        2  un errore di logica
+        3  un errore di metodo
+1
+Come si chiama il file dove sono memorizzate delle funzioni  ?
+        1 classe
+        2 modulo
+        3 libreria
+2
+Come evitare errori di input da parte dell'utente che fanno bloccare un programma ?
+       1 Analizzando i dati con degli operatori di confornto
+       2 Con cicli if else
+       3 Applicando dei Try: Except: Else: Finally:
+3
+Come istruzione  si usa per mandare un file dal pc a git?
+	 1git ciao
+	 2git add .
+	 3git commit
+3
