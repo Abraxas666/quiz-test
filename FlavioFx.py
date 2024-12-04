@@ -108,3 +108,19 @@ def quiz_add():
         file.close()
         if end_test ():
             break
+
+
+##  AGGIUNTA FUNZIONE CHE RACCOGLIE LA RISPOSTA CHE RESTITUISCE LA FUNZIONE DI ALINA
+##  E COMPARA IL RISULTATO CON LA TUPLE RISPOSTE DI GIADA
+
+
+punteggio = 0
+risposte = ("1","2","3","1")
+
+
+def check_reply( reply,num_domanda):
+
+    if (int(reply) == risposte[int(num_domanda)]):
+        punteggio += 1
+    else:
+        pass
